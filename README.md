@@ -50,8 +50,9 @@ I craft modern, polished and interactive interfaces — from high-end landing pa
 
 | Project | Description | Stack |
 |---|---|---|
+| [ImmoAppart](https://github.com/Mourtada-002/ImmoAppart.git) | Premium real estate rental website | HTML · CSS · JS · GSAP |
+| [MokaNoir](https://github.com/Mourtada-002/MokaNoir.git) | Modern artisanal coffee site with interactive cart | HTML · CSS · JS · GSAP |
 | [Fanta Drink](https://github.com/Mourtada-002/fanta-drink) | Interactive landing page with scroll-animated can & flavor switcher | HTML · CSS · JS · GSAP |
-| [DabaFood](https://github.com/Mourtada-002/DabaFood) | Gastronomic Ivorian restaurant showcase with WhatsApp booking | HTML · Tailwind · JS |
 | [Dashboard Admin](https://github.com/Mourtada-002/Dashboard-Admin) | Modern dark admin dashboard with interactive charts | HTML · Tailwind · Chart.js |
 | [CheckGames](https://github.com/Mourtada-002/CheckGames) | Gaming platform to discover games and follow news | HTML · Tailwind · JS |
 
