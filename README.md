@@ -2,7 +2,7 @@
 
 # Dicko Mouhamed Mourtada
 
-**Front-end Developer** · Web & Mobile
+**Front-end Developer**
 
 </div>
 
