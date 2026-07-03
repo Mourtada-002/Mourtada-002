@@ -2,11 +2,11 @@
 
 # Dicko Mouhamed Mourtada
 
-**Front-end Developer**
+**Frontend Developer**
 
 </div>
 
-I craft modern, polished and interactive interfaces — from high-end landing pages to cross-platform mobile apps. I'm a front-end focused developer comfortable across the full stack, available for freelance opportunities.
+I craft modern, polished and interactive interfaces — from high-end landing pages to cross-platform mobile apps. I'm a frontend focused developer comfortable across the full stack, available for freelance opportunities.
 
 ---
 
