@@ -51,8 +51,9 @@ I craft modern, polished and interactive interfaces — from high-end landing pa
 | Project | Description | Stack |
 |---|---|---|
 | [ID CONSULT](https://www.idconsult-ml.com/) | Consulting agency site with animated quote requests & ISO certs catalog | HTML · CSS · JS · GSAP · LOTTIE |
+| [INADIA](https://inadia.shop/) | An e-commerce site for a fashion and jewelry boutique | HTML · CSS · JS · Firebase |
 | [ImmoAppart](https://github.com/Mourtada-002/ImmoAppart.git) | Premium real estate rental website | HTML · CSS · JS · GSAP |
-| [Prestige-Dining](https://github.com/Mourtada-002/Prestige-Dining.git) | A modern gastronomic restaurant website | HTML · CSS · JS · GSAP |
+| [Prestige Dining](https://github.com/Mourtada-002/Prestige-Dining.git) | A modern gastronomic restaurant website | HTML · CSS · JS · GSAP |
 | [MokaNoir](https://github.com/Mourtada-002/MokaNoir.git) | Modern artisanal coffee site with interactive cart | HTML · CSS · JS · GSAP |
 | [EmpireGym](https://github.com/Mourtada-002/EmpireGym.git) | A premium fitness center website | HTML · CSS · JS · GSAP |
 | [Fanta Drink](https://github.com/Mourtada-002/fanta-drink.git) | Interactive landing page with scroll-animated can & flavor switcher | HTML · CSS · JS · GSAP |
