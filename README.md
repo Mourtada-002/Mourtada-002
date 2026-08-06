@@ -12,7 +12,7 @@ I craft modern, polished and interactive interfaces — from high-end landing pa
 
 ## What I Build
 
-**Interfaces** — React, Next.js, TypeScript, JavaScript, Tailwind CSS, CSS3, HTML5
+**Interfaces** — React, Next.js, TypeScript, JavaScript, Tailwind CSS, CSS3, HTML5  
 **Mobile** — Flutter, Dart  
 **Backend** — Node.js  
 **Tools** — Git, GitHub, Vite, Figma, VS Code
