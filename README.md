@@ -52,8 +52,8 @@ I craft modern, polished and interactive interfaces — from high-end landing pa
 
 | Project | Description | Stack |
 |---|---|---|
-| [ID CONSULT](https://www.idconsult-ml.com/) | Consulting agency site with animated quote requests & ISO certs catalog | HTML · CSS · JS · GSAP · LOTTIE |
-| [INADIA](https://inadia.shop/) | An e-commerce site for a fashion and jewelry boutique | HTML · CSS · JS · Firebase |
+| [ID Consult](https://www.idconsult-ml.com/) | Consulting agency site with animated quote requests & ISO certs catalog | HTML · CSS · JS · GSAP · LOTTIE |
+| [Inadia](https://inadia.shop/) | An e-commerce site for a fashion and jewelry boutique | HTML · CSS · JS · Firebase |
 | [Stride](https://github.com/mouhamedm/Stride.git) | Interactive 3D sneaker showcase with scroll-driven animations | Next.js · TypeScript · Tailwind · GSAP |
 | [Pulse](https://github.com/mouhamedm/Pulse.git) | Smartwatch product page with a spotlight carousel and custom cursor | Next.js · TypeScript · Tailwind · GSAP |
 | [Ghost](https://github.com/mouhamedm/Ghost.git) | Multi-page streetwear showcase with motion-driven storytelling | Next.js · TypeScript · Tailwind · GSAP |
