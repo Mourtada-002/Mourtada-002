@@ -14,7 +14,7 @@ I craft modern, polished and interactive interfaces — from high-end landing pa
 
 **Interfaces** — React, Next.js, TypeScript, JavaScript, Tailwind CSS, CSS3, HTML5  
 **Mobile** — Flutter, Dart  
-**Backend** — Node.js  
+**Backend** — Node.js, Firebase  
 **Tools** — Git, GitHub, Vite, Figma, VS Code
 
 ---
@@ -36,6 +36,7 @@ I craft modern, polished and interactive interfaces — from high-end landing pa
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -53,11 +54,10 @@ I craft modern, polished and interactive interfaces — from high-end landing pa
 |---|---|---|
 | [ID CONSULT](https://www.idconsult-ml.com/) | Consulting agency site with animated quote requests & ISO certs catalog | HTML · CSS · JS · GSAP · LOTTIE |
 | [INADIA](https://inadia.shop/) | An e-commerce site for a fashion and jewelry boutique | HTML · CSS · JS · Firebase |
-| [ImmoAppart](https://github.com/Mourtada-002/ImmoAppart.git) | Premium real estate rental website | HTML · CSS · JS · GSAP |
-| [Prestige Dining](https://github.com/Mourtada-002/Prestige-Dining.git) | A modern gastronomic restaurant website | HTML · CSS · JS · GSAP |
-| [MokaNoir](https://github.com/Mourtada-002/MokaNoir.git) | Modern artisanal coffee site with interactive cart | HTML · CSS · JS · GSAP |
-| [EmpireGym](https://github.com/Mourtada-002/EmpireGym.git) | A premium fitness center website | HTML · CSS · JS · GSAP |
-| [Fanta Drink](https://github.com/Mourtada-002/fanta-drink.git) | Interactive landing page with scroll-animated can & flavor switcher | HTML · CSS · JS · GSAP |
+| [Stride](https://github.com/mouhamedm/Stride.git) | Interactive 3D sneaker showcase with scroll-driven animations | Next.js · TypeScript · Tailwind · GSAP |
+| [Pulse](https://github.com/mouhamedm/Pulse.git) | Smartwatch product page with a spotlight carousel and custom cursor | Next.js · TypeScript · Tailwind · GSAP |
+| [Ghost](https://github.com/mouhamedm/Ghost.git) | Multi-page streetwear showcase with motion-driven storytelling | Next.js · TypeScript · Tailwind · GSAP |
+| [Vyro](https://github.com/mouhamedm/Vyro.git) | Next-gen VTC & ride-hailing app | Flutter · Dart |
 
 ---
 
